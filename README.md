@@ -19,3 +19,6 @@ https://github.com/vuex-orm/vuex-orm
 
 Componente Calendário
 https://github.com/Wanderxx/vue-fullcalendar
+
+Componente para notificaçôes
+https://github.com/euvl/vue-notification
